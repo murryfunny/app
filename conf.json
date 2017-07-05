@@ -29,7 +29,7 @@
   },
   "default": {
     "id": "ledou",
-    "site": "乐逗网"
+    "site": "乐逗网",
     "pushVersion": "1.0.53",
     "url": "https://raw.githubusercontent.com/murryfunny/app/1.0.53/ledou/",
     "arm_size": "36.99M",
