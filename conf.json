@@ -2,11 +2,11 @@
   "m.llw6666": {
     "id": "lele",
     "site": "乐乐网",
-    "pushVersion": "1.0.53",
-    "url": "https://raw.githubusercontent.com/murryfunny/app/1.0.53/lele/",
-    "arm_size": "36.99M",
-    "x86_size": "40.87M",
-    "ios_size": "9.88M",
+    "pushVersion": "1.1.1",
+    "url": "https://raw.githubusercontent.com/murryfunny/app/1.0.0/lele/",
+    "arm_size": "40.13M",
+    "x86_size": "44.01M",
+    "ios_size": "9.90M",
     "urge": false,
     "logs": [
       "修复app一些紧要问题",
