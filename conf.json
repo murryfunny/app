@@ -16,7 +16,7 @@
   "m.qqvip1": {
     "id": "qiqu",
     "site": "奇趣网",
-    "pushVersion": "1.0.54",
+    "pushVersion": "1.0.55",
     "url": "https://raw.githubusercontent.com/murryfunny/app/1.0.0/qiqu/",
     "arm_size": "40.11M",
     "x86_size": "43.99M",
