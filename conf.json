@@ -41,6 +41,20 @@
       "提升稳定性"
     ]
   },
+  "m.qqcp168": {
+    "id": "qiqu",
+    "site": "奇趣网",
+    "pushVersion": "1.0.57",
+    "url": "https://raw.githubusercontent.com/murryfunny/app/1.0.0/qiqu/",
+    "arm_size": "40.11M",
+    "x86_size": "43.99M",
+    "ios_size": "9.87M",
+    "urge": false,
+    "logs": [
+      "修复app一些紧要问题",
+      "提升稳定性"
+    ]
+  },
   "default": {
     "id": "ledou",
     "site": "乐逗网",
