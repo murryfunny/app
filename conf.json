@@ -2,7 +2,21 @@
   "llw6666": {
     "id": "lele",
     "site": "乐乐网",
-    "pushVersion": "1.1.4",
+    "pushVersion": "1.1.6",
+    "url": "https://raw.githubusercontent.com/murryfunny/app/1.0.0/lele/",
+    "arm_size": "36.99M",
+    "x86_size": "40.87M",
+    "ios_size": "9.88M",
+    "urge": false,
+    "logs": [
+      "修复app一些紧要问题",
+      "提升稳定性"
+    ]
+  },
+  "ylxx168": {
+    "id": "lele",
+    "site": "乐乐网",
+    "pushVersion": "1.1.6",
     "url": "https://raw.githubusercontent.com/murryfunny/app/1.0.0/lele/",
     "arm_size": "36.99M",
     "x86_size": "40.87M",
@@ -16,7 +30,7 @@
   "llw3536": {
     "id": "lele",
     "site": "乐乐网",
-    "pushVersion": "1.1.4",
+    "pushVersion": "1.1.6",
     "url": "https://raw.githubusercontent.com/murryfunny/app/1.0.0/lele/",
     "arm_size": "36.99M",
     "x86_size": "40.87M",
